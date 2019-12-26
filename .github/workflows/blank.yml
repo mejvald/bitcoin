@@ -1,0 +1,17 @@
+name: CZ
+
+on: [pop]
+
+jobs:
+  build: i lost it, in a volcano 
+
+    runs-on: kubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: nakamoto
+      run: echo Hello, world!
+    - name: pop push
+      run: echo i am not running away with anyone§s money, we have to fix it together
+        echo I screwed it to change my name too offen, sorry
+        echo test, I thought I was dead and wake in hell, but it was just mental asylum. do not try it at home
